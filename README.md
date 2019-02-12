@@ -2,7 +2,7 @@
 
 Máquina Virtual y archivos para poder realizar todos los POC's que vienen incluídos en el libro Hacking-de-Aplicaciones-Web-SQL-Injection.-3-Edicion de 0xWORD.
 
-Hola a todos!, aquí os dejo una máquina virtual en formato .ovf llamada SQLI.ovf, en ella podreís encontrar todo el código para realizar los ejercicios de SQLI que vienen en el libro.
+Hola a todos!, aquí os dejo una máquina virtual en formato .ovf llamada SQLI-LAB.ovf, en ella podreís encontrar todo el código para realizar los ejercicios de SQLI que vienen en el libro.
 
 El primer paso sería loguear en la máquina virtual usuario:root password:toor.
 
