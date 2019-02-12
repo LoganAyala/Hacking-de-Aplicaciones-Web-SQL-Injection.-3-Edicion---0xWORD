@@ -20,4 +20,4 @@ Luego nos dirigimos al Escritorio y vereís un archivo de texto que poner SQLILA
 
 START HACKING ;D
 
-Con esto ya tendremos todo activo para empezar con los ejercicios de los primeros capítulos, poco a poco ire renovando y añadiendo los otros ejercicios en próximas entregas. Espero os sirva para aprender junto a la mano de 0xWord!.
+Con esto ya tendremos todo activo para empezar con los ejercicios de los primeros capítulos, poco a poco iré renovando y añadiendo los otros ejercicios en próximas entregas. Espero os sirva para aprender junto a la mano de 0xWord!.
