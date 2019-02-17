@@ -4,6 +4,8 @@ Máquina Virtual y archivos para poder realizar todos los POC's que vienen inclu
 
 Hola a todos!, aquí os dejo una máquina virtual en formato .ovf llamada SQLI-LAB.ovf, en ella podreís encontrar todo el código para realizar los ejercicios de SQLI que vienen en el libro.
 
+Enlace de descarga: https://drive.google.com/file/d/1e8oehAtnMJ-UDoiogzfOmcoYRvoLApYU/view?usp=sharing
+
 El primer paso sería loguear en la máquina virtual usuario:root password:toor.
 
 Luego nos dirigimos al Escritorio y vereís un archivo de texto que poner SQLILAB.txt que contiene estas instrucciones:
